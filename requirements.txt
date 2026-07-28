@@ -1,0 +1,24 @@
+# Thor Valley Flood Prediction System - verified working package set
+# Tested with Python 3.12.3 on Linux. Also works on Python 3.11.
+# Install with:  pip install -r requirements.txt
+
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+scipy==1.17.1
+xgboost==3.3.0
+lightgbm==4.7.0
+catboost==1.2.10
+tensorflow-cpu==2.21.0
+shap==0.52.0
+folium==0.20.0
+geopandas==1.1.4
+shapely==2.1.2
+rasterio==1.5.0
+pyproj==3.7.2
+scikit-image==0.26.0
+matplotlib==3.10.8
+seaborn==0.13.2
+requests==2.33.1
+Pillow==12.1.1
+streamlit==1.60.0
